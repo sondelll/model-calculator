@@ -1,0 +1,22 @@
+{
+  "name": "model-calculator",
+  "version": "1.0.0",
+  "description": "estimates VRAM requirements for deep learning models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faceshiftlabs/model-calculator.git"
+  },
+  "author": "Jeremy Hummel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/faceshiftlabs/model-calculator/issues"
+  },
+  "homepage": "https://github.com/faceshiftlabs/model-calculator#readme",
+  "devDependencies": {
+    "@angular/cli": "^11.2.8"
+  }
+}
